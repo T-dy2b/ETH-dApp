@@ -3,7 +3,7 @@
   "version": "0.8.19",
   "private": true,
   "scripts": {
-    "test": "npx hardhat test"
+  "test": "npx hardhat test"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "1.0.6",
